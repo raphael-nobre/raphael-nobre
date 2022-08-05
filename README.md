@@ -1,8 +1,6 @@
 ### Hey! I am Raphael Nobre 👋
 
-
-- 💼  Data Engineering Intern at IPNET Growth Partner
-- 🧑‍💻  I'm studying Python and Data Studio
+- 🧑‍💻  I'm studying JavaScript and React.
 
 <div>
   <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=raphael-nobre&show_icons=true&theme=radical" />
